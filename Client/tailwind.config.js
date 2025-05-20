@@ -10,6 +10,12 @@ export default {
         textDark: '#212121',    // متن تیره
         bgWhite: '#FFFFFF',     // پس‌زمینه
       },
+      fontFamily: {
+        'Pinar-light': 'Pinar-light',
+        'Pinar-medium': 'Pinar-medium',
+        'Pinar-bold': 'Pinar-bold',
+        'Pinar-extra': 'Pinar-extra',
+      }
     },
   },
   plugins: [],
